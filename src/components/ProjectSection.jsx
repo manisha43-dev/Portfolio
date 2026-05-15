@@ -1,6 +1,6 @@
 import { ArrowRight, ExternalLink, Github } from 'lucide-react'
 import React from 'react'
-import Image1 from "../assets/image/food-deli.png"
+import Image1 from "../assets/image/food.png"
 import Image2 from "../assets/image/ai-audit.png"
 
 

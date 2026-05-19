@@ -35,6 +35,15 @@ const projects=[
         demoUrl:"https://e-commerce-npgd-f9b3huk4c-manisha43-devs-projects.vercel.app/",
         githubUrl:"https://github.com/manisha43-dev/E-commerce",
     },
+      {
+        id:4,
+        title:"Mini-CRM App",
+        description:"A Mini CRM application using React,Material UI,Express,Node and MongoDB.",
+        image:Image3,
+        tags:["React","MongoDB","Express","Node js"],
+        demoUrl:"https://mini-nzkakd6o6-manisha43-devs-projects.vercel.app/tasks",
+        githubUrl:"https://github.com/manisha43-dev/Mini-CRM",
+    },
 ]
 
 const ProjectSection = () => {

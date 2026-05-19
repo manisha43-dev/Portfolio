@@ -3,6 +3,8 @@ import React from 'react'
 import Image1 from "../assets/image/food.png"
 import Image2 from "../assets/image/ai-audit.png"
 import Image3 from "../assets/image/ecommerce.png"
+import Image4 from "../assets/image/mini-crm.png"
+
 
 
 
@@ -39,8 +41,8 @@ const projects=[
         id:4,
         title:"Mini-CRM App",
         description:"A Mini CRM application using React,Material UI,Express,Node and MongoDB.",
-        image:Image3,
-        tags:["React","MongoDB","Express","Node js"],
+        image:Image34,
+        tags:["React","MongoDB","Express","Node js","Material UI"],
         demoUrl:"https://mini-nzkakd6o6-manisha43-devs-projects.vercel.app/tasks",
         githubUrl:"https://github.com/manisha43-dev/Mini-CRM",
     },

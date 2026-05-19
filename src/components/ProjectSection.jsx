@@ -41,7 +41,7 @@ const projects=[
         id:4,
         title:"Mini-CRM App",
         description:"A Mini CRM application using React,Material UI,Express,Node and MongoDB.",
-        image:Image34,
+        image:Image4,
         tags:["React","MongoDB","Express","Node js","Material UI"],
         demoUrl:"https://mini-nzkakd6o6-manisha43-devs-projects.vercel.app/tasks",
         githubUrl:"https://github.com/manisha43-dev/Mini-CRM",

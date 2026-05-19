@@ -24,7 +24,7 @@ const projects=[
         description:"A beautiful AI Auditor using React,MongoDB,Express and Tailwind.",
         image:Image2,
         tags:["React","TailwindCSS","MongoDB","Express"],
-        demoUrl:"https://ai-audit-n1my.vercel.app/audit",
+        demoUrl:"https://ai-audit-sigma.vercel.app/",
         githubUrl:"https://github.com/manisha43-dev/AI-Audit",
     }
     ,

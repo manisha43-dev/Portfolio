@@ -17,22 +17,22 @@ const projects=[
         {
         id:2,
         title:"AI Audit",
-        description:"A beautiful landing page app using React and Materialui.",
+        description:"A beautiful AI Auditor using React,MongoDB,Express and Tailwind.",
         image:Image2,
         tags:["React","TailwindCSS","MongoDB","Express"],
         demoUrl:"https://ai-audit-n1my.vercel.app/audit",
         githubUrl:"https://github.com/manisha43-dev/AI-Audit",
     }
-    // ,
-    //     {
-    //     id:3,
-    //     title:"Saas Landing Page",
-    //     description:"A beautiful landing page app using React and Materialui.",
-    //     image:"/",
-    //     tags:["React","Material UI"],
-    //     demoUrl:"#",
-    //     githubUrl:"https://github.com/manisha43-dev",
-    // },
+    ,
+        {
+        id:3,
+        title:"Mini-Ecommerce App",
+        description:"A small ecommerce application using React,Express,Node and MongoDB.",
+        image:"/",
+        tags:["React","MongoDB","Express","Node js"],
+        demoUrl:"https://e-commerce-npgd-f9b3huk4c-manisha43-devs-projects.vercel.app/",
+        githubUrl:"https://github.com/manisha43-dev/E-commerce",
+    },
 ]
 
 const ProjectSection = () => {

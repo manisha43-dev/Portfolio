@@ -55,7 +55,7 @@ const projects=[
         image:Image5,
         tags:["React","MongoDB","Express","Node js","Tailwind CSS"],
         demoUrl:"https://shopify-crm-sable.vercel.app/",
-        githubUrl:"https://github.com/manisha43-dev/Mini-CRM",
+        githubUrl:"https://github.com/manisha43-dev/shopify-crm",
     },
 
 ]

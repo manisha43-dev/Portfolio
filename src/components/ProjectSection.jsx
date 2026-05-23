@@ -4,6 +4,8 @@ import Image1 from "../assets/image/food.png"
 import Image2 from "../assets/image/ai-audit.png"
 import Image3 from "../assets/image/ecommerce.png"
 import Image4 from "../assets/image/mini-crm.png"
+import Image5 from "../assets/image/shopify-crm.png"
+
 
 
 
@@ -46,6 +48,16 @@ const projects=[
         demoUrl:"https://mini-nzkakd6o6-manisha43-devs-projects.vercel.app/tasks",
         githubUrl:"https://github.com/manisha43-dev/Mini-CRM",
     },
+     {
+        id:4,
+        title:"Shopify-CRM App",
+        description:"A Shopify CRM application using React,Tailwind,Express,Node and MongoDB.",
+        image:Image5,
+        tags:["React","MongoDB","Express","Node js","Tailwind CSS"],
+        demoUrl:"https://shopify-crm-sable.vercel.app/",
+        githubUrl:"https://github.com/manisha43-dev/Mini-CRM",
+    },
+
 ]
 
 const ProjectSection = () => {

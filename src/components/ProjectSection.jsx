@@ -2,12 +2,8 @@ import { ArrowRight, ExternalLink, Github } from 'lucide-react'
 import React from 'react'
 import Image1 from "../assets/image/food.png"
 import Image2 from "../assets/image/ai-audit.png"
-import Image3 from "../assets/image/ecommerce.png"
 import Image4 from "../assets/image/mini-crm.png"
 import Image5 from "../assets/image/shopify-crm.png"
-
-
-
 
 
 const projects=[
@@ -30,15 +26,7 @@ const projects=[
         githubUrl:"https://github.com/manisha43-dev/AI-Audit",
     }
     ,
-        {
-        id:3,
-        title:"Mini-Ecommerce App",
-        description:"A small ecommerce application using React,Express,Node and MongoDB.",
-        image:Image3,
-        tags:["React","MongoDB","Express","Node js"],
-        demoUrl:"https://e-commerce-npgd-f9b3huk4c-manisha43-devs-projects.vercel.app/",
-        githubUrl:"https://github.com/manisha43-dev/E-commerce",
-    },
+     
       {
         id:4,
         title:"Mini-CRM App",

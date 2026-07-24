@@ -2,8 +2,11 @@ import { ArrowRight, ExternalLink, Github } from 'lucide-react'
 import React from 'react'
 import Image1 from "../assets/image/food.png"
 import Image2 from "../assets/image/ai-audit.png"
-import Image4 from "../assets/image/mini-crm.png"
-import Image5 from "../assets/image/shopify-crm.png"
+import Image3 from "../assets/image/mini-crm.png"
+import Image4 from "../assets/image/shopify-crm.png"
+import Image5 from "../assets/image/medico.png"
+import Image66 from "../assets/image/dashboard.png"
+
 
 
 const projects=[
@@ -28,22 +31,40 @@ const projects=[
     ,
      
       {
-        id:4,
+        id:3,
         title:"Mini-CRM App",
         description:"A Mini CRM application using React,Material UI,Express,Node and MongoDB.",
-        image:Image4,
+        image:Image3,
         tags:["React","MongoDB","Express","Node js","Material UI"],
         demoUrl:"https://mini-nzkakd6o6-manisha43-devs-projects.vercel.app/tasks",
         githubUrl:"https://github.com/manisha43-dev/Mini-CRM",
     },
      {
-        id:5,
+        id:4,
         title:"Shopify-CRM App",
         description:"A Shopify CRM application using React,Tailwind,Express,Node and MongoDB.",
-        image:Image5,
+        image:Image4,
         tags:["React","MongoDB","Express","Node js","Tailwind CSS"],
         demoUrl:"https://shopify-crm-sable.vercel.app/",
         githubUrl:"https://github.com/manisha43-dev/shopify-crm",
+    },
+    {
+        id:5,
+        title:"Medicare-Medico",
+        description:"The Hospital management Application build for book appointment and schedule the doctors",
+        image:Image5,
+        tags:["React","MongoDB","Express","Node js","Material UI"],
+        demoUrl:"https://clinic-medicare.vercel.app/",
+        githubUrl:"https://github.com/manisha43-dev/clinic-medicare",
+    },
+    {
+        id:6,
+        title:"Nexachain investment Dashboard",
+        description:"A Nexachain investment dashboard for show the investment detail of user",
+        image:Image6,
+        tags:["React","MongoDB","Express","Node js"],
+        demoUrl:"https://nexachain-dashboard.vercel.app/",
+        githubUrl:"https://github.com/manisha43-dev/nexachain-dashboard",
     },
 
 ]

@@ -5,7 +5,7 @@ import Image2 from "../assets/image/ai-audit.png"
 import Image3 from "../assets/image/mini-crm.png"
 import Image4 from "../assets/image/shopify-crm.png"
 import Image5 from "../assets/image/medico.png"
-import Image66 from "../assets/image/dashboard.png"
+import Image6 from "../assets/image/dashboard.png"
 
 
 
